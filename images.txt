@@ -1,1 +1,1 @@
-code3f3/xpdf:Server-0.0.10
+khulnasoft/xpdf
