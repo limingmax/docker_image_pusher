@@ -1,1 +1,1 @@
-deepset/xpdf
+sparanoid/mathjax-node-server
