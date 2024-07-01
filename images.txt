@@ -1,1 +1,1 @@
-khulnasoft/xpdf
+deepset/xpdf
