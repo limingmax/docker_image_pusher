@@ -1,1 +1,1 @@
-sparanoid/mathjax-node-server
+node:18-alpine3.19
