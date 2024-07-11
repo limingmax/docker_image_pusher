@@ -1,1 +1,1 @@
-node:18-alpine3.19
+node:8.10
