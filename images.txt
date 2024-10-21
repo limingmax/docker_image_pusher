@@ -3,3 +3,4 @@ dorowu/ubuntu-desktop-lxde-vnc
 nacos/nacos-server
 jenkins/jenkins
 seataio/seata-server
+harness/harness
