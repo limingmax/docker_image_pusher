@@ -4,3 +4,4 @@ nacos/nacos-server
 jenkins/jenkins
 seataio/seata-server
 harness/harness
+gitlab/gitlab-ce
