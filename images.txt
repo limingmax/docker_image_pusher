@@ -1,1 +1,2 @@
-quincyqiang/mineru:0.3-models
+#quincyqiang/mineru:0.3-models
+chishin/nginx-proxy-manager-zh
