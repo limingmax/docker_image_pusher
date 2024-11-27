@@ -1,4 +1,5 @@
 #quincyqiang/mineru:0.3-models
 #chishin/nginx-proxy-manager-zh
 #dibz15/marker_docker
-savatar101/marker-api:0.3
+#savatar101/marker-api:0.3
+dockurr/macos
