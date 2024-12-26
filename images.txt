@@ -2,4 +2,5 @@
 #chishin/nginx-proxy-manager-zh
 #dibz15/marker_docker
 #savatar101/marker-api:0.3
-dockurr/macos
+#dockurr/macos
+huridocs/pdf-document-layout-analysis:v0.0.20
