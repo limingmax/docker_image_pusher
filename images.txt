@@ -4,4 +4,5 @@
 #savatar101/marker-api:0.3
 #dockurr/macos
 #huridocs/pdf-document-layout-analysis:v0.0.20
-mayanghua/instock
+#mayanghua/instock
+lampnick/doctron
