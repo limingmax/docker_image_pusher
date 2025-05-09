@@ -5,4 +5,5 @@
 #dockurr/macos
 #huridocs/pdf-document-layout-analysis:v0.0.20
 #mayanghua/instock
-lampnick/doctron
+#lampnick/doctron
+selenium/standalone-chrome
