@@ -8,4 +8,5 @@
 #lampnick/doctron
 #selenium/standalone-chrome
 ##buildkite/puppeteer
-ccjmne/puppeteer-html2pdf
+##ccjmne/puppeteer-html2pdf
+ghcr.io/puppeteer/puppeteer:23.2.0
