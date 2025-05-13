@@ -7,4 +7,5 @@
 #mayanghua/instock
 #lampnick/doctron
 #selenium/standalone-chrome
-buildkite/puppeteer
+#buildkite/puppeteer
+ccjmne/puppeteer-html2pdf
